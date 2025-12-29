@@ -41,4 +41,4 @@ This project replicates the basic UI of Amazon including navbar, search bar, pro
 
 ## 📌 Disclaimer
 This project is for **educational purposes only**.  
-All trademarks and images belong to their respective owners.
+All trademarks and images belong to their respective owners.go
