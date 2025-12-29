@@ -43,7 +43,6 @@ This project replicates the basic UI of Amazon including navbar, search bar, pro
 ## 📌 Disclaimer
 This project is for **educational purposes only**.  
 All trademarks and images belong to their respective owners.go
-=======
+
 # Amazon-Clone
-This project is a clone of Amazon's website, created using HTML and CSS to replicate the design and layout of the e-commerce platform. The project demonstrates front-end development skills, focusing on structure, styling, and responsiveness.  Features: Homepage Design: A visually appealing homepage showcasing products and banners. 
->>>>>>> 6084cd896c40d15af09b9026fd2ae5f33d00e3f9
+This project is a clone of Amazon's website, created using HTML and CSS to replicate the design and layout of the e-commerce platform. The project demonstrates front-end development skills, focusing on structure, styling, and responsiveness.  Features: Homepage Design: A visually appealing homepage showcasing products and banners.

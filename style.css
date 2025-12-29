@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /* Reset and Base Styles */
 * {
     margin: 0;
@@ -323,7 +323,7 @@
     .box {
         margin: 10px;
     }
-=======
+
 /* Reset and Base Styles */
 * {
     margin: 0;
@@ -648,5 +648,5 @@
     .box {
         margin: 10px;
     }
->>>>>>> 6084cd896c40d15af09b9026fd2ae5f33d00e3f9
+}
 }
